@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main Activity -->
+    <string name="start_broadcast_title">Bắt đầu phát trực tiếp</string>
+    <string name="topic_edit_hint">Nhập tên Channel</string>
+    <string name="need_necessary_permissions">Yêu cầu cấp phép</string>
+
+    <!-- Setting Activity -->
+    <string name="setting_title">Cài đặt</string>
+    <string name="setting_resolution_title">Độ phân giải</string>
+    <string name="setting_stats_title">Chỉ số video</string>
+
+    <!-- Role Choose Activity -->
+    <string name="select_role_title">Chọn vai trò</string>
+    <string name="select_role_broadcaster">Người phát</string>
+    <string name="select_role_audience">Khán giả</string>
+    <string name="select_role_broadcaster_hint">Phát trực tiếp video của bạn</string>
+    <string name="select_role_audience_hint">Tham dự vào phát trực tiếp của người khác</string>
+    <string name="setting_mirror_encode_title">Chế độ mã hóa video cục bộ</string>
+    <string name="setting_mirror_local_title">Xem trước video</string>
+    <string name="setting_mirror_remote_title">Chế độ phát video</string>
+</resources>

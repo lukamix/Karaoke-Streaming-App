@@ -1,0 +1,9 @@
+<io.agora.openlive.ui.VideoGridContainer xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/karaoke_video"
+    android:layout_width="match_parent"
+    android:layout_height="256dp"
+    android:layout_alignParentTop="true"
+    android:layout_centerHorizontal="true"
+    android:layout_marginTop="3dp"
+    android:layout_marginBottom="-3dp">
+</io.agora.openlive.ui.VideoGridContainer>
